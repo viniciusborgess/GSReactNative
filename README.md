@@ -1,4 +1,9 @@
-# Power Outage Tracker 🔌⚡
+# GS Mobile Develoment
+
+Integrante: 97767 - Vinicius Sobreira Borges 
+Integrante: 97989 - Guilherme Cunha Bichaco
+
+
 
 Um aplicativo React Native desenvolvido com Expo para rastrear e documentar interrupções de energia elétrica causadas por eventos naturais como chuvas, ventos, deslizamentos e outros fenômenos.
 
